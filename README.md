@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "500px" src="https://image.freepik.com/free-vector/business-coach-showing-growth-graph-businesswoman-laptop-training-statistics-flat-illustration-analytics-management-concept-banner-website-design-landing-web-page_74855-14298.jpg?w=740" alt="cover" />
+<img width="100%" height = "500px" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="cover" />
 </div>
 
-<h1> Hello < Developers/ >! <img src = "https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdiqbal7265.mdiqbal7265)
